@@ -145,6 +145,17 @@
       },
       "source": "./plugins/security-guidance",
       "category": "security"
+    },
+    {
+      "name": "webpage-snapshot",
+      "description": "Capture and save webpage screenshots using browser automation",
+      "version": "1.0.0",
+      "author": {
+        "name": "大粒子",
+        "email": "support@anthropic.com"
+      },
+      "source": "./plugins/webpage-snapshot",
+      "category": "productivity"
     }
   ]
 }

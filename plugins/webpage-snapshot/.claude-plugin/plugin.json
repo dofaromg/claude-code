@@ -1,0 +1,9 @@
+{
+  "name": "webpage-snapshot",
+  "description": "Capture and save webpage screenshots using browser automation",
+  "version": "1.0.0",
+  "author": {
+    "name": "大粒子",
+    "email": "support@anthropic.com"
+  }
+}
